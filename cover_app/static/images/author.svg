@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <linearGradient id="gradAvatar" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="faceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fed7aa" />
+      <stop offset="100%" stop-color="#fdba74" />
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="80" cy="80" r="76" fill="url(#gradAvatar)" stroke="#38bdf8" stroke-width="4" />
+  <!-- Shoulders / Body -->
+  <path d="M 28 142 C 34 110, 52 98, 80 98 C 108 98, 126 110, 132 142 Z" fill="#1e293b" stroke="#60a5fa" stroke-width="2" />
+  <!-- Collar / Shirt -->
+  <polygon points="80,118 70,100 90,100" fill="#ffffff" />
+  <polygon points="80,132 75,118 85,118" fill="#d97706" />
+  <!-- Head -->
+  <circle cx="80" cy="66" r="30" fill="url(#faceGrad)" />
+  <!-- Hair -->
+  <path d="M 50 62 C 50 40, 64 30, 80 30 C 96 30, 110 40, 110 62 C 102 52, 92 48, 80 50 C 68 52, 58 55, 50 62 Z" fill="#0f172a" />
+  <!-- Glasses -->
+  <rect x="62" y="60" width="14" height="10" rx="3" fill="none" stroke="#0f172a" stroke-width="2.5" />
+  <rect x="84" y="60" width="14" height="10" rx="3" fill="none" stroke="#0f172a" stroke-width="2.5" />
+  <line x1="76" y1="65" x2="84" y2="65" stroke="#0f172a" stroke-width="2" />
+  <!-- Smile -->
+  <path d="M 74 78 Q 80 84 86 78" fill="none" stroke="#9a3412" stroke-width="2" stroke-linecap="round" />
+</svg>

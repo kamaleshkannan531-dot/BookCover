@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <linearGradient id="pubGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <!-- Book Icon -->
+  <g transform="translate(10, 10)">
+    <polygon points="12,5 25,12 25,36 12,28" fill="#38bdf8" opacity="0.9" />
+    <polygon points="25,12 38,5 38,28 25,36" fill="#0284c7" />
+    <path d="M 12 5 Q 25 10 38 5" stroke="#ffffff" stroke-width="2" fill="none" />
+    <circle cx="25" cy="20" r="3" fill="#ffffff" />
+  </g>
+  <!-- Publisher Text -->
+  <text x="60" y="27" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="800" fill="#ffffff" letter-spacing="1">SAVEETHA</text>
+  <text x="60" y="42" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" fill="#94a3b8" letter-spacing="2">ACADEMIC PRESS</text>
+</svg>
