@@ -3,10 +3,9 @@
 ## Date: 13-11-2026
 ## Name: V Kamalesh Kannan
 ## Register Number: 26011247
-## Reference Number: 212224010001
 ## Course Code: 19AI414
 ## Course Title: Fundamentals of Web Application Development
-## Department: Artificial Intelligence and Data Science
+## Department: Computer Science Engineering
 ## Institution: Saveetha Engineering College (Autonomous)
 
 ---
